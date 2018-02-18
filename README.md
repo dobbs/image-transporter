@@ -8,10 +8,4 @@ Extracted from [an example of Federated Wiki].
 
 # Development
 
-Build, tag, and push revisions to dockerhub.  (let `docker-compose` do
-the work)
-
-``` bash
-docker-compose build images
-docker-compose push
-```
+Note to self... push some code & a webhook will signal dockerhub.
